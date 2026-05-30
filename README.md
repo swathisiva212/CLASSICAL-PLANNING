@@ -1,8 +1,6 @@
 
 # ExpNo:10 Implementation of Classical Planning Algorithm
 
-### Name :DINAGARAN JOHNY S
-### Reg No :212223220020
 
 ## Algorithm or Steps Involved:
 <ol>
